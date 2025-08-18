@@ -1,0 +1,23 @@
+{
+  "name": "test-repo-public",
+  "version": "1.0.0",
+  "description": "Public test repo for access token testing Editing for a new commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AayushShrestha-25/test-repo-public.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AayushShrestha-25/test-repo-public/issues"
+  },
+  "homepage": "https://github.com/AayushShrestha-25/test-repo-public#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
