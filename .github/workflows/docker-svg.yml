@@ -1,4 +1,4 @@
-name: Build and Push Docker Image
+name: Build and Push Docker Image- mock just for config test
 
 on:
   workflow_dispatch: # Manual trigger only
